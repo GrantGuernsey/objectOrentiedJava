@@ -1,8 +1,4 @@
-//**********************
-//* Grant Guernsey     *
-//* Period D           *
-//* Lab 3.1            *
-//**********************
+
 
 import java.util.Random;
 import java.util.Scanner;
