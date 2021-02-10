@@ -1,8 +1,4 @@
-//**********************
-//* Grant Guernsey     *
-//* Period E           *
-//* Lab 9.1            *
-//**********************
+
 class STXStudent
 {
 	private int studentNumber;
